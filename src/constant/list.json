@@ -1,0 +1,68 @@
+{
+    "Portugal": [
+        {
+            "id": 1,
+            "name": "aasiya",
+            "checked": false
+        },
+        {
+            "id": 2,
+            "name": "Luvleen",
+            "checked": false
+        },
+        {
+            "id": 3,
+            "name": "Rey",
+            "checked": false
+        },
+        {
+            "id": 4,
+            "name": "Cayla",
+            "checked": false
+        }
+    ],
+    "Nicaragua": [
+        {
+            "id": 5,
+            "name": "Deveedas",
+            "checked": false
+        },
+        {
+            "id": 6,
+            "name": "Obasey",
+            "checked": false
+        },
+        {
+            "id": 7,
+            "name": "Xeria",
+            "checked": false
+        },
+        {
+            "id": 8,
+            "name": "Ezequiel",
+            "checked": false
+        }
+    ],
+    "Marshall Islands": [
+        {
+            "id": 9,
+            "name": "aaron",
+            "checked": false
+        },
+        {
+            "id": 10,
+            "name": "jelena",
+            "checked": false
+        },
+        {
+            "id": 11,
+            "name": "Xeria",
+            "checked": false
+        },
+        {
+            "id": 12,
+            "name": "Ezequiel",
+            "checked": false
+        }
+    ]
+}
